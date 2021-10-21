@@ -5,8 +5,6 @@
 
 Please import the .sql file into a local database. Then connect the app to DB through `/config/database.php`
 
-### `php -S localhost:8080`
-
 ## Start server
 
 In order to start the server you need to run
